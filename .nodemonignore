@@ -1,0 +1,2 @@
+# don't redeploy on coffeescript changes, only javascript changes
+**/*.coffee

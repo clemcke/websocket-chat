@@ -18,4 +18,4 @@ Dev Recommended Tools
 
 To compile your CoffeeScript on every change
 ---
-    coffee --compile --watch **/*.coffee
+    coffee --compile --watch *.coffee **/*.coffee
